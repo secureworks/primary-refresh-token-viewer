@@ -68,3 +68,6 @@ Copy **Secureworks.dll** and **BouncyCastle.Crypto.Dll** to **%LOCALAPPDATA%\Pro
 5. Select any response containing data encrypted with the session key to view decrypted data:
 
 ![](./img/DecryptedData.png)
+
+# Lisence
+[Apache 2.0](/LISENCE)
