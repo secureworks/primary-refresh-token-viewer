@@ -6,6 +6,8 @@ PRT add-on for Fiddler classic and extender for Burp Suite (Community & Professi
 
 ### Installation
 
+Download binaries here [here](https://github.com/secureworks/primary-refresh-token-viewer/releases/download/Release/Burp.Extender.zip).
+
 1. Create a folder and copy **PRT.jar** and **gson-2.9.0.jar** to it:
 
 ![](./img/CreateFolder.png)
@@ -39,6 +41,8 @@ PRT add-on for Fiddler classic and extender for Burp Suite (Community & Professi
 ## Fiddler classic
 
 ### Installation
+Download binaries [here](https://github.com/secureworks/primary-refresh-token-viewer/releases/download/Release/Fiddler.Classic.zip).
+
 Copy **Secureworks.dll** and **BouncyCastle.Crypto.Dll** to **%LOCALAPPDATA%\Programs\Fiddler\Inspectors** folder:
 
 ![](./img/CopyToInspectors.png)
